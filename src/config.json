@@ -1,0 +1,10 @@
+{
+	"id": "55",
+	"name": "uni-ui",
+	"desc": "基于 uni-app 的 UI 组件库",
+	"edition": "1.2.10",
+	"path": "https://ext.dcloud.net.cn/plugin?id=55",
+	"update_log": [
+		"- uni-easyinput - 优化 trim 属性，可以单独去除左侧右侧和中间部分的空格"
+	]
+}
